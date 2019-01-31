@@ -1,5 +1,5 @@
 <h1 align="center">
-  A collection of awesome, motivating resources for entrepreneurs with a focus on tech.
+  A collection of awesome, motivating resources for entrepreneurs.
   <br><br>
 </h1>
 
@@ -29,9 +29,13 @@
 
 ## Introduction
 
-This repository was created with the intention of sharing motivating resources for entrepreneurs with a focus on tech.
+This repository was created with the intention of sharing motivating resources for entrepreneurs.
 
 ## Table of Contents
 
-1. **[Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)**  
-2. **[“An Owner’s Manual” for Google’s Shareholders](https://abc.xyz/investor/founders-letters/2004/ipo-letter.html)**  
+1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
+1. [“An Owner’s Manual” for Google’s Shareholders](https://abc.xyz/investor/founders-letters/2004/ipo-letter.html)  
+1. [Start With Why (Simon Sinek)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) is a good
+   book to read if you’re struggling with a mission statement, or searching for a purpose.  
+1. [Mindset: The New Psychology of Success (Carol S. Dweck)](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X) If you’re interested in learning about different mindsets or understanding your own a little better, then this is a nice choice. 
+1. [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles (Steven Pressfield)](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026) A succinct, engaging, and practical guide for succeeding in any creative sphere, The War of Art is nothing less than Sun-Tzu for the soul.
