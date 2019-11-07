@@ -1,5 +1,5 @@
 <h1 align="center">
-  A collection of awesome, motivating resources for entrepreneurs.
+  A collection of awesome, motivating resources for CTO's and entrepreneurs with a focus on tech.
   <br><br>
 </h1>
 
@@ -10,20 +10,20 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
   </a>
-  <a href="https://travis-ci.com/soerenmartius/awesome-motivations">
+  <a href="https://travis-ci.com/soerenmartius/awesome-cto">
     <img src="https://img.shields.io/travis/soerenmartius/awesome-motivation/master.svg?style=flat-square&label=build&logo=travis" alt="Build Status">
   </a>
-  <a href="https://github.com/soerenmartius/awesome-motivations/tree/master">
+  <a href="https://github.com/soerenmartius/awesome-cto/tree/master">
     <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
       alt="Branch">
   </a>
 </p>
 
 <div align="center">
-  <sub>Created by
+  <sub>Created by</sub>
   <a href="https://www.linkedin.com/in/soerenmartius/">soren martius</a> and
-  <a href="https://github.com/soerenmartius/awesome-motivations/graphs/contributors">
-    contributors
+  <a href="https://github.com/soerenmartius/awesome-cto/graphs/contributors">
+      contributors
   </a>
 </div>
 
@@ -47,3 +47,8 @@ This repository was created with the intention of sharing motivating and helpful
 1. [algoexpert.io](https://www.algoexpert.io/) Become an Algorithms Expert. 77 video explanations of popular interview questions with solutions in JavaScript, Python, C++, Java, and Go.
 1. [rhyme.com](https://rhyme.com/) Do hands-on machine learning and data heavy projects from your browser using pre-configured Windows or Linux cloud desktops.
 
+
+### Technologies
+
+#### Monitoring & Logging
+1. [Streamalert](https://github.com/airbnb/streamalert) StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
