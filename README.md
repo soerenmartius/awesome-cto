@@ -47,8 +47,10 @@ This repository was created with the intention of sharing motivating and helpful
 1. [algoexpert.io](https://www.algoexpert.io/) Become an Algorithms Expert. 77 video explanations of popular interview questions with solutions in JavaScript, Python, C++, Java, and Go.
 1. [rhyme.com](https://rhyme.com/) Do hands-on machine learning and data heavy projects from your browser using pre-configured Windows or Linux cloud desktops.
 
-
 ### Technologies
+
+#### Elixir, Erlang and OTP
+1. [The Zen of Erlang](https://ferd.ca/the-zen-of-erlang.html) A handful of good facts about Erlang and OTP.
 
 #### Monitoring & Logging
 1. [Streamalert](https://github.com/airbnb/streamalert) StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
