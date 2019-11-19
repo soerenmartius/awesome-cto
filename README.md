@@ -49,6 +49,9 @@ This repository was created with the intention of sharing motivating and helpful
 
 ### Technologies
 
+### Programming
+1- [Magic lies here - Statically vs Dynamically Typed Languages](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b) A very good Overview of Statically vs Dynamically Typed Languages
+
 #### Elixir, Erlang and OTP
 1. [The Zen of Erlang](https://ferd.ca/the-zen-of-erlang.html) A handful of good facts about Erlang and OTP.
 
