@@ -47,13 +47,14 @@ This repository was created with the intention of sharing motivating and helpful
 1. [algoexpert.io](https://www.algoexpert.io/) Become an Algorithms Expert. 77 video explanations of popular interview questions with solutions in JavaScript, Python, C++, Java, and Go.
 1. [rhyme.com](https://rhyme.com/) Do hands-on machine learning and data heavy projects from your browser using pre-configured Windows or Linux cloud desktops.
 
-### Programming
+### Data
+1. [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas) The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
+
+### General Programming Concepts
 1- [Magic lies here - Statically vs Dynamically Typed Languages](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b) A very good Overview of Statically vs Dynamically Typed Languages
 
-### Technologies
-
-#### Elixir, Erlang and OTP
+### Elixir, Erlang and OTP
 1. [The Zen of Erlang](https://ferd.ca/the-zen-of-erlang.html) A handful of good facts about Erlang and OTP.
 
-#### Monitoring & Logging
+### Monitoring & Logging
 1. [Streamalert](https://github.com/airbnb/streamalert) StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
