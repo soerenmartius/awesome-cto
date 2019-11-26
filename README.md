@@ -47,6 +47,9 @@ This repository was created with the intention of sharing motivating and helpful
 1. [algoexpert.io](https://www.algoexpert.io/) Become an Algorithms Expert. 77 video explanations of popular interview questions with solutions in JavaScript, Python, C++, Java, and Go.
 1. [rhyme.com](https://rhyme.com/) Do hands-on machine learning and data heavy projects from your browser using pre-configured Windows or Linux cloud desktops.
 
+### Dashboards
+1. [Gitlab's Meltano](https://meltano.com/) Free data dashboards for startup founders. Open source software to visualize business operations data.
+
 ### Data
 1. [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas) The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
 
