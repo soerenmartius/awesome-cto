@@ -36,6 +36,7 @@ This repository was created with the intention of sharing motivating and helpful
 ### General
 1. [The different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) Werner Vogels (Amazon CTO)
 1. [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
+1. [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) Figuring out the CTO Role at Stripe
 
 ### Companies Visions and Missions
 1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
