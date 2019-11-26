@@ -82,3 +82,4 @@ This repository was created with the intention of sharing motivating and helpful
 ### More Resources
 1. [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) (GitHub)
 1. [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) (GitHub)
+1. [Startup CTO Resources](https://www.socalcto.com/2011/09/startup-cto.html)
