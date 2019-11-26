@@ -41,6 +41,9 @@ This repository was created with the intention of sharing motivating and helpful
 ### Hiring
 1. [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) by Joel Spolsky (StackOverflow co-founder)
 
+### Management
+1. [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (Y Combinator)
+
 ### Companies Visions and Missions
 1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
 1. [“An Owner’s Manual” for Google’s Shareholders](https://abc.xyz/investor/founders-letters/2004/ipo-letter.html)
