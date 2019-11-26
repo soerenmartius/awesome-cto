@@ -78,3 +78,7 @@ This repository was created with the intention of sharing motivating and helpful
 
 ### Distributed Systems
 1. [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=1049s) Using a series of examples all set in a coffee shop, we’ll explore topics like distributed storage, computation, timing, messaging, and consensus. You'll leave with a good grasp of each of these problems, and a solid understanding of the ecosystem of open-source tools in the space.
+
+### More Resources
+1. [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) (GitHub)
+1. [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) (GitHub)
