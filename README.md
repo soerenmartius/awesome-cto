@@ -38,6 +38,9 @@ This repository was created with the intention of sharing motivating and helpful
 1. [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
 1. [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) Figuring out the CTO Role at Stripe
 
+### Hiring
+1. [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) by Joel Spolsky (StackOverflow co-founder)
+
 ### Companies Visions and Missions
 1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
 1. [“An Owner’s Manual” for Google’s Shareholders](https://abc.xyz/investor/founders-letters/2004/ipo-letter.html)
