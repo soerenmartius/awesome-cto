@@ -33,6 +33,10 @@ This repository was created with the intention of sharing motivating and helpful
 
 ## Table of Contents
 
+### General
+1. [The different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) Werner Vogels (Amazon CTO)
+1. [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
+
 ### Companies Visions and Missions
 1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
 1. [“An Owner’s Manual” for Google’s Shareholders](https://abc.xyz/investor/founders-letters/2004/ipo-letter.html)
