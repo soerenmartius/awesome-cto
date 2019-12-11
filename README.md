@@ -42,7 +42,8 @@ This repository was created with the intention of sharing motivating and helpful
 1. [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) by Joel Spolsky (StackOverflow co-founder)
 
 ### Management
-1. [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham (Y Combinator)
+1. [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) by Paul Graham (Y Combinator)
+1. [The New Methodology](https://martinfowler.com/articles/newMethodology.html) by Martin Fowler
 
 ### Companies Visions and Missions
 1. [Owner's Manual - Berkshire Hathaway Inc.](http://www.berkshirehathaway.com/ownman.pdf)
