@@ -61,14 +61,12 @@ This repository was created with the intention of sharing motivating and helpful
 1. [algoexpert.io](https://www.algoexpert.io/) Become an Algorithms Expert. 77 video explanations of popular interview questions with solutions in JavaScript, Python, C++, Java, and Go.
 1. [rhyme.com](https://rhyme.com/) Do hands-on machine learning and data heavy projects from your browser using pre-configured Windows or Linux cloud desktops.
 
-### Dashboards
-1. [Gitlab's Meltano](https://meltano.com/) Free data dashboards for startup founders. Open source software to visualize business operations data.
-
-### Data
-1. [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas) The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
-
-### General Programming Concepts
+### Programming
 1. [Magic lies here - Statically vs Dynamically Typed Languages](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b) A very good Overview of Statically vs Dynamically Typed Languages
+
+### Data, Dashboards & Visualization
+1. [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas) The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
+1. [Gitlab's Meltano](https://meltano.com/) Free data dashboards for startup founders. Open source software to visualize business operations data.
 
 ### Elixir, Erlang and OTP
 1. [The Zen of Erlang](https://ferd.ca/the-zen-of-erlang.html) A handful of good facts about Erlang and OTP.
@@ -78,6 +76,7 @@ This repository was created with the intention of sharing motivating and helpful
 
 ### Distributed Systems
 1. [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=1049s) Using a series of examples all set in a coffee shop, we’ll explore topics like distributed storage, computation, timing, messaging, and consensus. You'll leave with a good grasp of each of these problems, and a solid understanding of the ecosystem of open-source tools in the space.
+1. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/) How Amazon builds and operates software
 
 ### More Resources
 1. [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) (GitHub)
