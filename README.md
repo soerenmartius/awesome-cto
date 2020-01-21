@@ -80,6 +80,9 @@ This repository was created with the intention of sharing motivating and helpful
 1. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/) How Amazon builds and operates software
 1. [System Design Primer - Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
+### Security
+1. [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture) Principles to help you design and deploy a zero trust architecture
+
 ### More Resources
 1. [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) (GitHub)
 1. [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) (GitHub)
