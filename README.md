@@ -64,6 +64,7 @@ This repository was created with the intention of sharing motivating and helpful
 
 ### Programming
 1. [Magic lies here - Statically vs Dynamically Typed Languages](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b) A very good Overview of Statically vs Dynamically Typed Languages
+1. [The art of command line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page
 
 ### Data, Dashboards & Visualization
 1. [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas) The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
